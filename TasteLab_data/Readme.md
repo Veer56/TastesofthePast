@@ -3,3 +3,4 @@ Which includes:
 - The form with questions for the Panel
 - Raw results of the panel
 - Results with graphs and adjustments to the data to make comprehenible tables and graphs.
+- The recipe which was used to make the dishes for the panel
