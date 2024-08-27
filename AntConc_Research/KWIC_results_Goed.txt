@@ -1,0 +1,101 @@
+File	Left Context	Hit	Right Context
+VolmaakteHollandseKeukenMeid.txt	ze in     een Taartepan een half uurtje bakken is heel 	goed.                 26. 	Kervel-Koekjes, hoe men die bakken zal.       Neemt kervel 
+VolmaakteHollandseKeukenMeid.txt	kan men 'er wat brood suiker over     raspen is heel 	goed.                 27. 	Kervel-taart, in een korst, hoe men die bakken     
+VolmaakteHollandseKeukenMeid.txt	ondertusschen eens omgeschud, en een uurtje laaten doorstoven, is     heel 	goed.                 22. 	Kiekens hoe men die stooven zal.       Neemt wel schoon 
+VolmaakteHollandseKeukenMeid.txt	booter stooven, tot dat ze gaar zyn, is mede heel 	goed.                 23. 	Kiekens pottagie, met erreten.       Neemt Kiekens en laat die 
+VolmaakteHollandseKeukenMeid.txt	met wat vuur onder en boven     laaten bakken, is heel 	goed.                 30. 	Kleine Karssetaartjes, hoe men die bakken     zal.             Legt de 
+VolmaakteHollandseKeukenMeid.txt	met wat vuur onder en boven laaten bakken is zeer 	goed.                 31. 	Kleine Zuster, hoe men die bakken zal.       Neemt 2 ponden 
+VolmaakteHollandseKeukenMeid.txt	Gasten Voor te dienen. Nevens de Wyze om allerhande Tafel-	goed 	Konstig en     cierlyk te Vouwen. Vergadert uit verscheidene handschriften 
+VolmaakteHollandseKeukenMeid.txt	Gasten voor te dienen, nevens de wyze om allerhande Tafel-	Goed     	konstig en cierlyk te vouwen, vergadert uit verscheide handschriften 
+VolmaakteHollandseKeukenMeid.txt	koude booter by doen om het     sap te binden, is 	goed.                31. 	Kroppen hoe men die stooven zal.       Neemt schoon gewassen 
+VolmaakteHollandseKeukenMeid.txt	in, is des Winters als het koud is     mede heel 	goed.                 13. 	Kroppen om des Winters te stooven, hoe men die 
+VolmaakteHollandseKeukenMeid.txt	ze dan uit en in een pot gedaan is heel 	goed.                 36. 	Moerellen, hoe men die confyten zal.       Neemt een pond 
+VolmaakteHollandseKeukenMeid.txt	die met oly en azyn, en harde eijeren is     heel 	goed.                 17. 	Moerellen, hoe men die in zal zulten, om by 
+VolmaakteHollandseKeukenMeid.txt	saus van booter, met kappers, en gekurvene     petercelie, is zeer 	goed.                 28. 	Mosselen, hoe men die voor de Vasten kooken zal.            
+VolmaakteHollandseKeukenMeid.txt	moet het geduurig     bedruipen en lang laaten stooven, is zeer 	goed.                33. 	Mosselen, hoe men die kooken zal.       Neemt goede Mosselen 
+VolmaakteHollandseKeukenMeid.txt	lardeerd die, en braad die aan 't spit, is heel 	goed 	om     gegeeten te worden, met een saus van vlees-
+VolmaakteHollandseKeukenMeid.txt	raspt men wat notemuscaat op de borst, is ook heel 	goed 	om     met de volgende saus gegeeten te worden.      Neemt 
+VolmaakteHollandseKeukenMeid.txt	als     die koud zyn zet ze dan weg is heel 	goed.                 42. 	Oranje bloessem, hoe men die confyten zal.       Kookt de 
+VolmaakteHollandseKeukenMeid.txt	op van krachtig     vleeschnat, met booter en Limoensap, is puik 	goed.                 42. 	Oranje taart, hoe men die bakken zal.       Neemt drie 
+VolmaakteHollandseKeukenMeid.txt	en laat     het zo een uurtje bakken, is dan heel 	goed.                 49. 	Pastey in een schotel hoe men die bakken     zal.       
+VolmaakteHollandseKeukenMeid.txt	zo een uur of twee te bakken gezet, is heel 	goed.                 47. 	Pastey van gehakt vleesch in een korst onder en 
+VolmaakteHollandseKeukenMeid.txt	de pot     gebonden en in de kelder weggezet, is heel 	goed.                 22. 	Raauwe Quee-peeren, hoe men die inleggen zal om 
+VolmaakteHollandseKeukenMeid.txt	kelder weg, om die des Winters     te stooven, is heel 	goed.                 23. 	Raauwe Snyboonen, hoe men die inleggen zal.           Neemt jonge 
+VolmaakteHollandseKeukenMeid.txt	saus van Limoen-sap, met     zout en witte peper, is 	goed.                20. 	Ragout van Vleesch, op de Rooster gebraaden, hoe men     
+VolmaakteHollandseKeukenMeid.txt	heeft, en genoeg zynde discht het zo op, is zeer 	goed.                54. 	Ragout van Zweserikken, hoe men die maaken     zal.       Neemt 
+VolmaakteHollandseKeukenMeid.txt	en klein gesneedene limoenen, en fruit ze in booter is 	goed.                 29. 	Rog, hoe men die fruiten zal.       Neemt rog en 
+VolmaakteHollandseKeukenMeid.txt	in de lucht zetten, om koud te worden, is zeer     	goed.                 35. 	Rog, hoe men die kooken zal voor de Vasten.           
+VolmaakteHollandseKeukenMeid.txt	bedruipen, en eet die met een zuure saus is heel 	goed.                 41. 	Schol, hoe men die braden zal.       Neemt schol, maakt 
+VolmaakteHollandseKeukenMeid.txt	toegedekt en laaten stooven, en altemets eens omgekeert, is     heel 	goed.                 37. 	Schol, hoe men die kooken en stooven zal voor 
+VolmaakteHollandseKeukenMeid.txt	braden, en eet die dan met een zuure     saus, is 	goed.                 43. 	Speenvarken, hoe men dat braaden zal.       Neemt een Speenvarken 
+VolmaakteHollandseKeukenMeid.txt	legt ze in     den azyn om naderhand te gebruiken is 	goed.                 31. 	Speenvarken, hoe men dat inzulten zal.       Als het speenvarken 
+VolmaakteHollandseKeukenMeid.txt	ligt ze 'er af, en doet in die appelen een     	goed 	stuk booter met wat suiker, dat men 'er door 
+VolmaakteHollandseKeukenMeid.txt	vinger en den duim vatten kan,     en  {==80==} {>>pagina-aanduiding<<}  een 	goed 	stuk kaneel daar by gestooten, en dan te zaamen 
+VolmaakteHollandseKeukenMeid.txt	met de bovenkorst en     zet het te bakken, is zeer 	goed.                48. 	Taart van Baars voor de Roomsgezinden, hoe men die     
+VolmaakteHollandseKeukenMeid.txt	korst, en laat het bakken, en met zuiker bestrooid, is 	goed.                51. 	Taart van geschilde garnaalen voor de Roomsgezinden,     hoe men 
+VolmaakteHollandseKeukenMeid.txt	af, zo word ze windrig en ongezond: om die dan 	goed     	te bewaren zonder windrig te worden zo neemt men 
+VolmaakteHollandseKeukenMeid.txt	flesjes, en een kurk met een blaas daar over, om 	goed 	te blyven,     en als men het drinken wil, zo 
+VolmaakteHollandseKeukenMeid.txt	als ze     gaar is eet men die met limoensap, is 	goed.                 34. 	Tongen, hoe men die fruiten zal voor de vasten.            
+VolmaakteHollandseKeukenMeid.txt	ze, en eet die met een eijer-saus, is zeer 	goed.                 45. 	Tongen, hoe men die stooven zal in plaats van 
+VolmaakteHollandseKeukenMeid.txt	een pot, of in thee-kopjes als Gely, is heel 	goed     	van smaak.                 9. Citroen-Snippers, hoe men die Confyten zal.       
+VolmaakteHollandseKeukenMeid.txt	vermaak       Tot uwent aangezeeten,       Maar nooit volmaakter eeten,       Gezond en 	goed 	van smaak.       In order op zien zetten.       Een ieder 
+VolmaakteHollandseKeukenMeid.txt	onder en boven tot dat ze gaar is, is heel 	goed.                 66. 	Venezoen, hoe men die bakken zal.       Neemt een stuk 
+VolmaakteHollandseKeukenMeid.txt	of acht deelen gesneeden heeft: is zeer gezond en excellent     	goed.                60. 	Venezoen, van allerhande Vis, voor de Roomsgezinden, om     in 
+VolmaakteHollandseKeukenMeid.txt	en laat die dan een uur of     anderhalf voor een 	goed 	vuur braaden, en zeer veel bedruipen, maar moet niet 
+VolmaakteHollandseKeukenMeid.txt	steekt ze aan 't spit en legt ze voor     een 	goed 	vuur te braaden, en bedruipt ze met wat azyn 
+VolmaakteHollandseKeukenMeid.txt	discht ze op met raauwe     petercelie en azyn is zeer 	goed.      	Wil men de zalm stooven zo moet men die 
+VolmaakteHollandseKeukenMeid.txt	of anderhalf laten ryzen, en koeken van     gebakken is zeer 	goed.      	Wil men 'er Peeren of Appelen in bakken zo 
+VolmaakteHollandseKeukenMeid.txt	en rondom de rand legt men schyfjes     citroenen; is heel 	goed.                 47. 	Witte Podding, hoe men die kooken zal.       Neemt 2 ponden 
+VolmaakteHollandseKeukenMeid.txt	gedaan en in de zon te droogen gezet, is heel 	goed.                 49. 	Witte Pruimen, hoe men die confyten zal.       Handeld daar 
+VolmaakteHollandseKeukenMeid.txt	booter en eet ze met een zuure saus is heel 	goed.                 39. 	Zalm, hoe men die fruiten zal voor de     vasten.       
+VolmaakteHollandseKeukenMeid.txt	gesnede brood in, en schept 'er de     warmoes op, is 	goed.                 50. 	Zalm, hoe men die kooken en stooven zal voor 
+VolmaakteHollandseKeukenMeid.txt	boter in krulletjes loopen, en word zo gebakken, is zeer 	goed.                45. 	Zuiker-brood, hoe men dat bakken zal.       Handelt hier 
+VolmaakteHollandseKeukenMeid.txt	het in     blikken in den oven te bakken, is alzo 	goed.                46. 	Zuiker-gebak, van de Freule van Hars.... dat zeer     
+VolmaakteHollandseKeukenMeid.txt	die wat verslagen is daar boven op gedaan, is heel     	goed.                 2. 	Amandelen, hoe men die fruiten zal.       Neemt een pond 
+VolmaakteHollandseKeukenMeid.txt	in gedaan en een half uur laaten bakken is     zeer 	goed.                 3. 	Amandeltaart in een korst, hoe men die bakken     zal.       
+VolmaakteHollandseKeukenMeid.txt	de pastey, en raspt 'er broodsuiker     over heen, is puik 	goed.                3. 	Appel sop, die zo goed is als Appeltaart, hoe 
+VolmaakteHollandseKeukenMeid.txt	wel wat laaten meuken eer men het opdist, is zeer 	goed.                 3. 	Appelen, hoe men die fruiten zal voor de     vasten.        
+VolmaakteHollandseKeukenMeid.txt	wel vast toe, en     kookt ze in wyn is zeer 	goed.                 2. 	Arbolade, hoe men die maaken zal voor de     Vasten.       
+VolmaakteHollandseKeukenMeid.txt	koeke-pan bruin en fruit daar die appelen in, is 	goed.                 4. 	Artisjokken, hoe men die fruiten zal voor de     vasten.       
+VolmaakteHollandseKeukenMeid.txt	wat zout by, en laat     het zo kooken is heel 	goed.                 3. 	Baars, hoe men die kooken zal.       Neemt baars die 
+VolmaakteHollandseKeukenMeid.txt	te bakken met     wat vuur onder en booven, is zeer 	goed.                5. 	Beatille of Oly-podrigo van Hoenders en Duiven, hoe 
+VolmaakteHollandseKeukenMeid.txt	zet ze zo in den oven te     bakken, zyn zeer 	goed.                7. 	Beschuit-koekjes, hoe men die bakken zal.       Neemt 10 beschuiten, 
+VolmaakteHollandseKeukenMeid.txt	gedaan hebben,     gebruikende alleen zodanige middelen die beproefd, en volmaakt 	goed 	bevonden     zyn; die ligt toebereid konnen worden, en die 
+VolmaakteHollandseKeukenMeid.txt	met een weinigje vuur boven op     het dekzel, is zeer 	goed.                6. 	Bike, hoe men die kooken zal.       Neemt 8 Duiven, 2 Zweserikken, 
+VolmaakteHollandseKeukenMeid.txt	pot, en digt toegedaan,     als ze koud zyn, is heel 	goed.                 5. 	Blamansjees, hoe men die maaken zal.       Neemt een pintje 
+VolmaakteHollandseKeukenMeid.txt	geschuimt is met een derde deel azyn, wyl het langer 	goed 	blyft.                  {==68==} {>>pagina-aanduiding<<}       VII. Hoofstuk.   Aanhangzel. Van het I. 
+VolmaakteHollandseKeukenMeid.txt	de kelder weg, het kan wel     een dag of vier 	goed 	blyven om 'er dagelyks van te eeten.            {==109==} {>>pagina-aanduiding<<}       32. 
+VolmaakteHollandseKeukenMeid.txt	de kelder weg gezet, kan maar een dag of twee 	goed     	blyven, maar is zeer verfrissende en goed.                 45. Paradys-Appelen, 
+VolmaakteHollandseKeukenMeid.txt	te gebruiken, want het kan maar     een dag of twee 	goed 	blyven.                       V. Hoofdstuk.   Fruiten van allerhande gerechten zo van     
+VolmaakteHollandseKeukenMeid.txt	zo wat laaten staan,     en dan in booter gebakken, is 	goed.                9. 	Bláks kaps, hoe men die bakken zal.       Neemt doorgesnedene 
+VolmaakteHollandseKeukenMeid.txt	korst gedaan en een     half uur laaten bakken, is heel 	goed.                 6. 	Boekwyte Koeken met Peeren Appelen of Korenten, hoe men     
+VolmaakteHollandseKeukenMeid.txt	wat zuiker by om de saus te binden, is heel 	goed.                5. 	Boeuf a la Mode, hoe men dat stooven zal.       
+VolmaakteHollandseKeukenMeid.txt	en in de kelder wat te verkoelen gezet, is heel     	goed.                 6. 	Bottels, hoe men die Confyten zal.       Neemt Bottels en 
+VolmaakteHollandseKeukenMeid.txt	vleeschnat over heen met wat gestoote notemuscaat en kruidnagelen,     is 	goed.                 6. 	Brood Podding, hoe men die maaken zal.       Neemt 12 eijeren 
+VolmaakteHollandseKeukenMeid.txt	uit het water of met een eijer     saus: is heel 	goed.                 5. 	Brood-moes, hoe men die maaken zal.       Neemt brood, 
+VolmaakteHollandseKeukenMeid.txt	in den oven bakken, en dan koud worden, is zeer     	goed.                 24. 	Caneel Wafeltjes, hoe men die bakken zal.       Neemt een 
+VolmaakteHollandseKeukenMeid.txt	dan bakt men die in dat beslag, is mede heel 	goed.                 7. 	Citroen Struiven hoe men die bakken zal.       Neemt 4 Citroenen 
+VolmaakteHollandseKeukenMeid.txt	als ze koud zyn zet ze dan weg,     is heel 	goed.                 10. 	Conserf van Vlier-bessen, hoe men die maaken     zal.       
+VolmaakteHollandseKeukenMeid.txt	beste stukken     zyn.       Alles is hier van by na even 	goed, 	daarom kiest men die stukken     uit, welk het beste 
+VolmaakteHollandseKeukenMeid.txt	gaat het     gemakkelyk.      Iemant die de koorts heeft, moet een 	goed 	diëet houden, en zo veel     vasten als het doenlyk 
+VolmaakteHollandseKeukenMeid.txt	een taarte-pan, en laat het heel langsaam bakken, is 	goed.                11. 	Dordse-struyf, hoe men die bakken zal.       Neemt 9 Eijeren, 
+VolmaakteHollandseKeukenMeid.txt	eens met het nat daar ze ingestaan     heeft, is heel 	goed.                 7. 	Duiven, hoe men die braaden zal.       Neemt jonge Duiven 
+VolmaakteHollandseKeukenMeid.txt	een saus kommetje of over de Podding gedaan, is heel 	goed.                 8. 	Duyve-Pottagie met ryst, hoe men die maaken     zal.       
+VolmaakteHollandseKeukenMeid.txt	een, en moet in een doek 6     uuren kooken, is een 	goed 	eeten, met een saus van booter, sek en zuiker.                42. 
+VolmaakteHollandseKeukenMeid.txt	het dus in den oven te bakken, 't is een 	goed 	eeten.                13. Engelsche Ragou, hoe men die bakken zal.       Neemt 2 
+VolmaakteHollandseKeukenMeid.txt	by, met wat     azyn, Kappers en gehakte olyven, is een 	goed 	eeten.                18. Ham, hoe men die kooken zal dat ze 
+VolmaakteHollandseKeukenMeid.txt	appel-sop heen als die gaar is, is een zeer 	goed 	eeten.                4. Appel-struif, hoe men die in een kopere 
+VolmaakteHollandseKeukenMeid.txt	drukt men 'er een limoen op     uit; is een zeer 	goed 	eeten.                 25. Labberdaan, hoe men die kooken zal voor de     
+VolmaakteHollandseKeukenMeid.txt	zo legt men 'er de     worst boven op is een 	goed 	eeten.                 68. Spinagie, hoe men die stooven zal.       Neemt Spinagie 
+VolmaakteHollandseKeukenMeid.txt	peperwortel, of     met een enkele mostert saus, is ook heel 	goed.                11. 	Endvogel a la glace, hoe men die kooken     zal.       
+VolmaakteHollandseKeukenMeid.txt	staan te bakken dat het niet neer     slaat, is zeer 	goed.                 9. 	Engelsche Kaaks, hoe men die bakken zal.       Neemt een 
+VolmaakteHollandseKeukenMeid.txt	wanneer men het zelve tot gely kookt, is ook zeer 	goed.                12. 	Faisant met een Karper saus, hoe men die toebereiden     
+VolmaakteHollandseKeukenMeid.txt	moet ze nooit te gaar maaken, nog larderen, is     zeer 	goed.                3. 	Faisant, hoe men die braaden zal. Zie 1. Stuk Pag.     52. 
+VolmaakteHollandseKeukenMeid.txt	schyfjes en fruit ze met wat zout in booter is 	goed.                 8. 	Fricandolen, hoe men die fruiten zal.       Neemt eenige sneden 
+VolmaakteHollandseKeukenMeid.txt	drukt 'er een limoen of twee in uit, is heel 	goed.                 9. 	Frikadellen, hoe men die maaken zal.       Neemt Kalfvleesch, en 
+VolmaakteHollandseKeukenMeid.txt	moet     heet zyn, want ze moeten schielyk bakken, is excellent 	goed.                 11. 	Fyne Kaaks, hoe men die bakken zal.       Neemt een 
+VolmaakteHollandseKeukenMeid.txt	in een assiet tot een vlade te styven, is heel 	goed.                 6. 	Geamberde Vlade, hoe men die maaken zal.       Neemt eenige 
+VolmaakteHollandseKeukenMeid.txt	aan 't spit,     en druipt ze met wat boter, is 	goed 	gegeeten, met geroostert brood, in het     uitgeloope sap, gewenteld.                 20. 
+VolmaakteHollandseKeukenMeid.txt	eet ze met wat Limoensap onder de booter gedaan, is     	goed.                5. 	Gehakte Kalfs-schyf, hoe men die op de Rooster 
+VolmaakteHollandseKeukenMeid.txt	boven een weinigje met de asschop bruin     gemaakt, is heel 	goed.                 7. 	Gekookte Snyboonen om des Winters te bewaren, hoe men     
+VolmaakteHollandseKeukenMeid.txt	schoon af, en doet het in thee-kopjes is     heel 	goed.                 17. 	Gely, van Citroenen hoe men die maaken zal.           Neemt 

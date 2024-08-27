@@ -1,0 +1,2 @@
+Row	FileID	FilePath	FileTokens	Freq	NormFreq	Dispersion	Plot
+1	0	VolmaakteHollandseKeukenMeid.txt	82190	409	4976.274	0.804	
