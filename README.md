@@ -7,7 +7,7 @@ Marieke Hendriksen, NL-Lab, Humanities Cluster KNAW (Royal Netherlands Academy o
 
 Article:
 
-Owner of the Data: Marieke Hendriksen, https://www.huygens.knaw.nl/medewerkers/marieke-hendriksen/
+Owner of the Data: Marieke Hendriksen, https://www.huygens.knaw.nl/medewerkers/marieke-hendriksen/  
 Funded by an NWO XS grant
 ## Data
 This respitory contains all the data used for the project Tastes of the Past and referenced by the published article from the project.  
