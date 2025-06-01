@@ -1,6 +1,25 @@
-# TastesofthePast
-Project files of Tastes of the Past. 
-Vera Eising, NL-Lab, Humanities Cluster KNAW (Royal Netherlands Academy of Arts and Sciences), Amsterdam 
-Manon Henzen, EetVerleden Merit Hondelink, University of Groningen 
-Judith Konsten, Aroma Review 
-Marieke Hendriksen, NL-Lab, Humanities Cluster KNAW (Royal Netherlands Academy of Arts and Sciences), Amsterdam
+# Tastes of the Past
+Project files of Tastes of the Past.  
+Vera Eising, NL-Lab, Humanities Cluster KNAW (Royal Netherlands Academy of Arts and Sciences), Amsterdam  
+Manon Henzen, EetVerleden Merit Hondelink, University of Groningen  
+Judith Konsten, Aroma Review  
+Marieke Hendriksen, NL-Lab, Humanities Cluster KNAW (Royal Netherlands Academy of Arts and Sciences), Amsterdam 
+
+Owner of the Data: Marieke Hendriksen, https://www.huygens.knaw.nl/medewerkers/marieke-hendriksen/
+## Data
+This respitory contains all the data used for the project Tastes of the Past and referenced by the published article from the project.  
+This includes the data from the text analyses and the Taste-Lab, which was held in Amsterdam in April 2024.  
+Due to the nature of the project, all the data is in Dutch. Only the graphs directly used in the article have been translate to English.  
+
+## Dataformat
+The data have different formats, depending on the type of data. All written text and some tables are docx files.  
+The questionforms and the anwsers have been saved as PDF, XLSX and CSV. The CSV was downloaded from GoogleForms which was used to make the questionary. 
+The wordclouds used in the article is a PNG image.
+All the data form the text analyses have formats of txt and PNG for pictures. The corpus of the analyses are saved as DB file (database-related), which can be opened with AntConc or any other Text Analysis program.
+
+## Software
+For the analyses of the cookbooks and other primary sources from this project, the *Freeware Corpus Analysis toolkit AntConc* was applied.
+This is a free and open software and can be found on *Laurence Antony's Website*: https://www.laurenceanthony.net/software/antconc/  
+
+## License
+For license information see the LICENSE.md
