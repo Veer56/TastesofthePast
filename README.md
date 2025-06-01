@@ -21,6 +21,7 @@ The files have been organized in two maps: the text analyses data in the AntConc
 ## Dataformat
 The data have different formats, depending on the type of data. All written text and some tables are docx files.  
 The questionforms and the anwsers have been saved as PDF, XLSX and CSV. The CSV was downloaded from GoogleForms which was used to make the questionary. 
+The questionary was fully anonymous, there is no personal information in the anwsers. The participants of the Taste Lab did approve the use and 
 The wordclouds used in the article is a PNG image.
 All the data form the text analyses have formats of txt and PNG for pictures. The corpus of the analyses are saved as DB file (database-related), which can be opened with AntConc or any other Text Analysis program.
 
