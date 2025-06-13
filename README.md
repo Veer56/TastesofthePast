@@ -32,3 +32,6 @@ This is a free and open software and can be found on *Laurence Antony's Website*
 
 ## License
 For license information see LICENSE.md
+
+## DOI
+https://doi.org/10.5281/zenodo.15658087
